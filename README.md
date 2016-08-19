@@ -1,2 +1,3 @@
 # ssa
-ssa project tiy
+ssa project (tiy)
+Java course assignments
